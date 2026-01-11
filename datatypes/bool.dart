@@ -1,4 +1,4 @@
-void main() {
-bool isMarried = true;
+void main(){
+bool isMarried = false;
 print("Married Status: $isMarried");
 }
